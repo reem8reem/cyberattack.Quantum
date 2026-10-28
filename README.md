@@ -61,7 +61,6 @@ The raw results are in `results_raw.csv` and `summary.csv`.
 - I did not tune the quantum feature map. A different one could change the results.
 
 ## References
-## References
 - Quantum Computing Initiative, "Introduction to Practical Quantum Computing" , Section 5.4 on quantum feature maps and SVMs.
 - Tavallaee et al., "A Detailed Analysis of the KDD CUP 99 Data Set", 2009 (NSL-KDD dataset).
 - Havlicek et al., "Supervised learning with quantum-enhanced feature spaces", Nature, 2019.
